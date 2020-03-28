@@ -1,0 +1,4 @@
+[0320/123853.898:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0320/123853.992:ERROR:exception_snapshot_win.cc(98)] thread ID 28944 not found in process
+[0320/123854.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0320/123854.085:ERROR:exception_snapshot_win.cc(98)] thread ID 30652 not found in process
